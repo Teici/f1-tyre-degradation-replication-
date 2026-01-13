@@ -1,6 +1,4 @@
-Got you — the issue in your screenshot is that some sections aren’t formatted as proper Markdown lists/blocks (and the repo structure lines look like plain text instead of a code block). Below is a **fully cleaned, copy-paste ready `README.md`** with correct Markdown formatting everywhere.
 
-Just **replace your entire `README.md`** with this:
 
 ````md
 # AI-Based Tyre Degradation Prediction and Pit Stop Strategy Evaluation  
