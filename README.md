@@ -1,6 +1,5 @@
 
 
-````md
 # AI-Based Tyre Degradation Prediction and Pit Stop Strategy Evaluation  
 ## Partial Replication + Extension Study (Formula 1)
 
